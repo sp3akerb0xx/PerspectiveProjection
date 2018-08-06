@@ -1,0 +1,2 @@
+# PerspectiveProjection
+This program uses the file included in the repository to plot a 3-D shape, in this case a cube, and project it onto a 2-D JavaFX WritableImage. This program is also capable of modifying the original projection by means of translating it, scaling it, and rotating it in any of the three dimensions. The shape is always viewed from the same point, (6, 8, 7.5) in space, and is projected to be viewed from 60 centimeters away.
